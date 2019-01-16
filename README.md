@@ -7,7 +7,7 @@ I am a master student major in Computer Science at The University of Texas at Da
 
 ### Academic
 
-- [Courses at UTD]()
+[Courses at UTD]()
 
 - Object-oriented Design
 - Machine Learning
