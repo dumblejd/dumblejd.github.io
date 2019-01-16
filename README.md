@@ -9,3 +9,18 @@ I am a master student major in Computer Science at The University of Texas at Da
 
 - [Courses at UTD]()
 
+- Object-oriented Design
+- Machine Learning
+- Database Design 
+
+- Design and Analys of Computer Algorithm
+- Software Testing
+- Computer Performance - Queuing System
+
+- Web Programming Language 
+- Multicore Programming
+- Statistical Method for Big Data
+
+- Computer Vision
+- Virtual Reality
+- Program Analysis and Application
